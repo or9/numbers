@@ -1,0 +1,32 @@
+{
+  "name": "numbers",
+  "version": "0.0.1",
+  "description": "Flashcard numbers app using angularjs",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^0.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:or9/numbers.git"
+  },
+  "keywords": [
+    "flashcards",
+    "numbers",
+    "ng",
+    "angularjs",
+    "arabic",
+    "learning",
+    "education"
+  ],
+  "author": "Drahman A.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/or9/numbers/issues"
+  },
+  "homepage": "https://github.com/or9/numbers"
+}
